@@ -1,0 +1,60 @@
+.contactsBody {
+    background-color: Black;
+    color: white;
+
+}
+
+.formSubmit {
+    background-color: black;
+    color: white;
+    border: .3rem solid white;
+    width: 15vw;
+    font-size: 2vw;
+}
+
+.formSubmit:hover {
+    transition: 1s ease-in;
+    background-color: white;
+    color: black;
+    border: .3rem solid black;
+    width: 15vw;
+    font-size: 2vw;
+}
+
+.contactInfo {
+    display: flex;
+}
+
+.contactTitle {
+    text-align: center;
+    font-family: Sitka Text;
+    font-size: 6vw;
+}
+
+.mediaIconTag {
+    padding-left: 4%;
+    width: 150px;
+}
+
+.ne {
+    font-size: 4vw;
+    font-weight: bold;
+}
+
+.num {
+    font-size: 3vw;
+    padding-left: 3%;
+    font-family: impact;
+}
+
+.con {
+    font-size: 5vw;
+}
+
+.map {
+   width: 20vw;
+}
+
+.acc {
+    margin-top: 2%;
+}

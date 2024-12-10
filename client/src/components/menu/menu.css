@@ -1,0 +1,24 @@
+.menu {
+text-align: center;
+padding: 2%;
+}
+
+.menuTitle {
+    text-align: center;
+    border: 1rem solid rgb(255, 85, 0);
+    background-color: white;
+    border-radius: 20rem 20rem;
+    width: 50vw;
+    font-family: gabriola;
+    font-size: 5vw;
+    margin-left: 25%;
+}
+
+.menuHeader {
+    font-size: 10vw;
+}
+
+.menuItems {
+    border: 1rem solid rgb(255, 85, 0);
+    box-shadow: 2px 2px 5px black;
+}

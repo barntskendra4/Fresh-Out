@@ -1,0 +1,55 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: auto;
+    text-align: center;
+    width: 45vw;
+    height: 50vw;
+}
+
+.title2 {
+    color: grey;
+    font-size: 18px;
+}
+
+.contactBtn {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+.cardBox {
+    display: flex;
+}
+
+.aboutTitle {
+    text-align: center;
+    letter-spacing: 6px;
+}
+
+.aboutIntro {
+    text-align: center;
+    padding: 2%;
+}
+
+.fb {
+    color: blue;
+}
+
+.x {
+    color: rgb(0, 145, 255);
+}
+
+.git {
+    color: rgb(255, 14, 54);
+}
+
+.iconsBox {
+    padding-bottom: 2%;
+}

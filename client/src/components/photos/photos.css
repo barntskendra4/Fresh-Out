@@ -1,0 +1,22 @@
+.bigbox {
+    background: linear-gradient(rgb(252, 140, 84),rgb(65, 63, 63), white);   
+    display: flex;
+    justify-content: center;
+  
+}
+
+
+.phootos1 {
+    flex-direction: row;
+    align-items: center;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 15px;
+
+}
+
+.pic {
+    width: 20vw;
+    padding: 2px;
+}

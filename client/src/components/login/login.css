@@ -1,0 +1,26 @@
+.back {
+  background-image: url("../../assets/images/breakfastPizza.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  width: 98vw;
+  height: 80vw;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+}
+
+.login {
+  background-color: rgba(0, 0, 0, 0.4);
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80vw;
+  padding: 20px;
+  text-align: center;
+}

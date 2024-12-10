@@ -1,0 +1,118 @@
+.pics {
+  width: 100vw;
+  height: 70vw;
+  max-height: 1000px;
+}
+
+.intro {
+  text-align: center;
+  padding: 2%;
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+
+.pics {
+  opacity: 50%;
+}
+
+.caption {
+  text-align: center;
+  position: relative;
+  bottom: 40vw;
+  font-weight: 800;
+}
+
+.title {
+  letter-spacing: 6px;
+  font-size: 8vw;
+}
+
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  background-image: none;
+}
+
+.qaBox {
+  padding-top: 2%;
+}
+
+.questions {
+  border-left: rgb(255, 85, 0).8rem solid;
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+
+.heading {
+  /* margin-right: 25px; */
+  border-left: rgb(255, 85, 0) .8rem solid;
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+
+.fa {
+  font-size: 25px;
+}
+
+.checked {
+  color: rgb(255, 85, 0);
+}
+
+.side {
+  float: left;
+  width: 15%;
+  margin-top: 10px;
+}
+
+.middle {
+  float: left;
+  width: 70%;
+  margin-top: 10px;
+}
+
+.right {
+  text-align: right;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.bar-container {
+  width: 100%;
+  background-color: #f1f1f1;
+  text-align: center;
+  color: white;
+}
+
+.bar-5 {
+  width: 60%;
+  height: 18px;
+  background-color: #04AA6D;
+}
+
+.bar-4 {
+  width: 30%;
+  height: 18px;
+  background-color: #2196F3;
+}
+
+.bar-3 {
+  width: 20%;
+  height: 18px;
+  background-color: #00bcd4;
+}
+
+.bar-2 {
+  width: 15%;
+  height: 18px;
+  background-color: #ff9800;
+}
+
+.bar-1 {
+  width: 4%;
+  height: 18px;
+  background-color: #f44336;
+}
